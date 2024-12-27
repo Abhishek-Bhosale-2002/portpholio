@@ -43,5 +43,3 @@ To preview the resume, simply open the `resume.html` file in a web browser.
 This project is open-source and free to use. Feel free to customize and personalize the design to suit your needs!
 
 ---
-
-This README is clear, concise, and outlines the main features and steps to use the HTML resume template. You can adjust the sections based on the specific features of your project.
