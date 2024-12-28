@@ -31,12 +31,12 @@ This project is a personal resume created using HTML5, designed to showcase prof
 ## How to Use
 
 1. Clone or download the repository to your local machine.
-2. Open the `resume.html` file in any modern web browser to view the resume.
+2. Open the `index.html` file in any modern web browser to view the resume.
 3. Customize the content (text, links, images) by editing the HTML and CSS files.
 
 ## Preview
 
-To preview the resume, simply open the `resume.html` file in a web browser.
+To preview the resume, simply open the `index.html` file in a web browser.
 
 ## License
 
